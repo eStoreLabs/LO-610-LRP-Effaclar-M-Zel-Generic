@@ -422,6 +422,7 @@ body {
   #es-rc #es-rc-content .es-kv__right {
     width: 50%;
     margin-top: 0;
+    margin-left: -1px;
   }
   #es-rc #es-rc-content .es-kv__right-m {
     display: none;
