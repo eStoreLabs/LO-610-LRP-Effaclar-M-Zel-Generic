@@ -136,7 +136,7 @@ $background-color_6: #f4f4f4;
 			&-3 {
 				top: auto;
 				bottom: 10%;
-				font-size: 16px;
+				font-size: 13px;
 				font-weight: normal;
 				text-transform: none;
 				background-color: #b5d4f0;
@@ -190,6 +190,7 @@ $background-color_6: #f4f4f4;
 		.es-benefits__single {
 			display: -webkit-box;
 			display: flex;
+			align-items: flex-start;
 			margin: 15px 10px;
 			-webkit-box-align: center;
 			align-items: center;
@@ -600,10 +601,10 @@ $background-color_6: #f4f4f4;
 
 			.es-kv__text--right {
 				font-size: 28px;
-				width: 68%;
+				width: 83%;
 
 				&-1 {
-					top: 35%;
+					top: 45%;
 					font-size: 18px;
 					left: -50%;
 				}
@@ -615,8 +616,8 @@ $background-color_6: #f4f4f4;
 				}
 
 				&-3 {
-					bottom: 6%;
-					font-size: 15px;
+					bottom: 25%;
+					font-size: 11px;
 					left: -50%;
 				}
 			}
@@ -1351,8 +1352,8 @@ $background-color_6: #f4f4f4;
 					}
 
 					&-3 {
-						bottom: 10%;
-						font-size: 18px;
+						bottom: 25%;
+						font-size: 14px;
 					}
 				}
 			}
@@ -1399,8 +1400,8 @@ $background-color_6: #f4f4f4;
 					}
 
 					&-3 {
-						bottom: 10%;
-						font-size: 16px;
+						bottom: 25%;
+						font-size: 15px;
 					}
 				}
 			}
@@ -1427,8 +1428,9 @@ $background-color_6: #f4f4f4;
 					}
 
 					&-3 {
-						bottom: 20%;
-						left: -56%;
+						bottom: 30%;
+						left: -55%;
+						width: 68%;
 					}
 				}
 
